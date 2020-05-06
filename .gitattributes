@@ -1,3 +1,4 @@
 *.csv filter=lfs diff=lfs merge=lfs -text
 Data_For_rec_Label.csv filter=lfs diff=lfs merge=lfs -text
 *.xz filter=lfs diff=lfs merge=lfs -text
+Data_compress.csv.xz filter=lfs diff=lfs merge=lfs -text
