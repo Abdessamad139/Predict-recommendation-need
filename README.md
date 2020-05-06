@@ -15,21 +15,22 @@ Data_compress.csv.xz
 ``` 
 
 contains data extracted from the ASSISTments learning platform, this new data aggregate eight different features that represent the learner:
-*-Time spent.
 
--The number of correct answers.
+**-Time spent.**
 
--The hints count.
+**-The number of correct answers.**
 
--The attempts count.
+**-The hints count.**
 
--The Frustration score.
+**-The attempts count.**
 
--The Boredom score.
+**-The Frustration score.**
 
--The Confusion score.
+**-The Boredom score.**
 
--The Concentration score.
+**-The Confusion score.**
+
+**-The Concentration score.**
 
 
 Each learner is labelled with a binary value indicating whether the learner has low knowledge acquisition or not.
