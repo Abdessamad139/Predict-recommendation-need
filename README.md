@@ -16,13 +16,21 @@ XXX
 
 contains data extracted from the ASSISTments learning platform, this new data aggregate eight different features that represent the learner:
 -Time spent.
+
 -The number of correct answers.
+
 -The hints count.
+
 -The attempts count.
+
 -The Frustration score.
+
 -The Boredom score.
+
 -The Confusion score.
+
 -The Concentration score.
+
 
 Each learner is labelled with a binary value indicating whether the learner has low knowledge acquisition or not.
 
