@@ -27,7 +27,7 @@ contains data extracted from the ASSISTments learning platform, this new data ag
 Each learner is labelled with a binary value indicating whether the learner has low knowledge acquisition or not.
 
 ```
-YYY 
+graph_skill.npz 
 ```
 contains an example of the generated dynamic graph ( we choose the concept "Addition and Subtraction Integers" for this graph)
 
