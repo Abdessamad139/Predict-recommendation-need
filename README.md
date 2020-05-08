@@ -14,7 +14,7 @@ Predicting learners need for recommendation using dynamic graph-based knowledge 
 Data_compress.csv.xz
 ``` 
 
-contains data extracted from the ASSISTments learning platform, this new data aggregate eight different features that represent the learner:
+Contains data extracted from the ASSISTments learning platform, this new data aggregate eight different features that represent the learner:
 
 **-Time spent.**
 
@@ -38,7 +38,7 @@ Each learner is labelled with a binary value indicating whether the learner has 
 ```
 graph_skill.npz 
 ```
-contains an example of the generated dynamic graph ( we choose the concept "Addition and Subtraction Integers" for this graph)
+Contains an example of the generated dynamic graph ( we choose the concept "Addition and Subtraction Integers" for this graph)
 
 The source code for generating a graph based on a selected concept will be shared soon.
 
