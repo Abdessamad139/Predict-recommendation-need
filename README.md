@@ -5,7 +5,11 @@ By Abdessamad Chanaa & Nour-eddine El Faddouli.
 
 ### Related Paper
 
-Predicting learners need for recommendation using dynamic graph-based knowledge tracing [updated soon]
+Predicting learners need for recommendation using dynamic graph-based knowledge tracing.
+
+```
+https://link.springer.com/chapter/10.1007/978-3-030-52240-7_9
+```
 
 ## Files
 
@@ -45,4 +49,17 @@ The source code for generating a graph based on a selected concept will be share
 ## Citation
 
 If you use those data please cite us:
-[right reference will be updated soon]
+```
+@InProceedings{10.1007/978-3-030-52240-7_9,
+author="Chanaa, Abdessamad and El Faddouli, Nour-Eddine",
+editor="Bittencourt, Ig Ibert and Cukurova, Mutlu and Muldner, Kasia and Luckin, Rose and Mill{\'a}n, Eva",
+title="Predicting Learners Need for Recommendation Using Dynamic Graph-Based Knowledge Tracing",
+booktitle="Artificial Intelligence in Education",
+year="2020",
+publisher="Springer International Publishing",
+address="Cham",
+pages="49--53",
+isbn="978-3-030-52240-7"
+}
+```
+
