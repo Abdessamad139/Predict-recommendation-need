@@ -50,16 +50,13 @@ The source code for generating a graph based on a selected concept will be share
 
 If you use those data please cite us:
 ```
-@InProceedings{10.1007/978-3-030-52240-7_9,
-author="Chanaa, Abdessamad and El Faddouli, Nour-Eddine",
-editor="Bittencourt, Ig Ibert and Cukurova, Mutlu and Muldner, Kasia and Luckin, Rose and Mill{\'a}n, Eva",
-title="Predicting Learners Need for Recommendation Using Dynamic Graph-Based Knowledge Tracing",
-booktitle="Artificial Intelligence in Education",
-year="2020",
-publisher="Springer International Publishing",
-address="Cham",
-pages="49--53",
-isbn="978-3-030-52240-7"
+@inproceedings{chanaa2020predicting,
+  title={Predicting Learners Need for Recommendation Using Dynamic Graph-Based Knowledge Tracing},
+  author={Chanaa, Abdessamad and El Faddouli, Nour-Eddine},
+  booktitle={International Conference on Artificial Intelligence in Education},
+  pages={49--53},
+  year={2020},
+  organization={Springer}
 }
 ```
 
